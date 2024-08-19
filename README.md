@@ -1,14 +1,15 @@
 # Arvore-Familiar
 Projeto de árvore familiar simples utilizando arvore binária
+
 Autoras: Ana Carolina Barbosa e Heloize Mafra
 
 
 # Instruções:
  *  O Arquivo que fornece as informações da familia deve estar formatado da seguinte forma:
- *            "Nome, Nome do cônjuge, Nome do pai/mãe";  
- *  Sendo o pai/mãe que possui ligação direta com a árvore;
+             "Nome, Nome do cônjuge, Nome do pai/mãe";  
+    sendo o pai/mãe que possui ligação direta com a árvore;
  *  Caso algum dos campos não esteja preenchido, deve ser informado como "-";
- *
+ 
 
 #Funcionalidades do Programa:
 1. Leitura dos dados de uma árvore genealógica de um arquivo.
