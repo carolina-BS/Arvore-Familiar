@@ -10,7 +10,7 @@ O Arquivo que fornece as informações da família deve estar formatado da segui
     Nome, Nome do cônjuge, Nome do pai/mãe 
    - Sendo o pai/mãe que possui ligação direta com a árvore
    - Caso algum dos campos não esteja preenchido, deve ser informado como "-"
-   - O arquivo familia serve como exmplo pre-pronto mas é possivel utilizar seu prorprio arquivo caso formatado da forma descrita acima.
+   - O arquivo [familia](https://github.com/carolina-BS/Arvore-Familiar/blob/main/familia) serve como exmplo pre-pronto mas é possivel utilizar seu prorprio arquivo caso formatado da forma descrita acima.
 
 
 # Funcionalidades do Programa:
